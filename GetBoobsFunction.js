@@ -2,7 +2,7 @@
  *made by @TETH_Main
  *
  *
- * Latest v1.2 https://www.desmos.com/calculator/a83pgvuelb
+ * Latest v1.2 https://www.desmos.com/calculator/
  *
  */
 
