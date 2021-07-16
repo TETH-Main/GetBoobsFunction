@@ -2,7 +2,7 @@
  *made by @TETH_Main
  *
  *
- * Latest v1.2 https://www.desmos.com/calculator/
+ * Latest v1.1 https://www.desmos.com/calculator/bcqxvcojpt
  *
  */
 
